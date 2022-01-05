@@ -1,0 +1,27 @@
+apple
+apricot
+banana
+blackberry
+blackcurrant
+blueberry
+cherry
+coconut
+fig
+gooseberry
+grape
+grapefruit
+kiwi fruit
+lemon
+lime
+mango
+melon
+orange
+peach
+pear
+pineapple
+plum
+pomegranate
+raspberry
+redcurrant
+rhubarb
+strawberry
